@@ -1,6 +1,6 @@
-# datasets
+# Repositório dos Datasets utilizados no Projeto PNUD BRA/18/024 "Fortalecimento da garantia do direito à vida e da redução da violência contra crianças e adolescentes no Brasil"
 
-Alguns conjuntos de dados utilizados pelos pesquisadores do projeto
+Alguns conjuntos de dados utilizados pelos pesquisadores do projeto:
 
 ## Fontes
 
